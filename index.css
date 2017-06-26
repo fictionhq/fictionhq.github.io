@@ -1,0 +1,43 @@
+body {
+	font-family: 'Hind Guntur', sans-serif;
+}
+
+h2 {
+	max-width: 70px;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+.container {
+	margin-top: 150px;
+}
+
+.content {
+	max-width: 500px;
+	margin: auto;
+}
+
+.tagline {
+	text-align: center;
+	margin: 0;
+}
+
+.images {
+	text-align: center;
+}
+
+.icons {
+	display: inline-block;
+	margin: auto;
+	margin-top: 20px;
+}
+
+.icons.github {
+	max-width: 50px;
+	padding-right: 10px;
+}
+
+.icons.medium {
+	padding-bottom: 8px;
+	max-width: 30px;
+}
