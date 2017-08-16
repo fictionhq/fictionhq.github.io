@@ -17,6 +17,14 @@ h2 {
 	margin: auto;
 }
 
+.logo-container {
+    text-align: center;
+}
+
+.logo {
+    width: 90px;
+}
+
 .tagline {
 	text-align: center;
 	margin: 0;
