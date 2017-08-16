@@ -18,16 +18,16 @@ h2 {
 }
 
 .logo-container {
-    text-align: center;
+	text-align: center;
 }
 
 .logo {
-    width: 90px;
-    transition: 0.3s ease;
+	width: 90px;
+	transition: 0.3s ease;
 }
 
 .logo:hover {
-    transform: scale(1.2, 1.2);
+	transform: scale(1.2, 1.2);
 }
 
 .tagline {
