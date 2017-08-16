@@ -23,6 +23,11 @@ h2 {
 
 .logo {
     width: 90px;
+    transition: 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(1.2, 1.2);
 }
 
 .tagline {
